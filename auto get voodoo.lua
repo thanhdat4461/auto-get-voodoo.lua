@@ -1,4 +1,4 @@
-    local Coasting = loadstring(game:HttpGet(("https://raw.githubusercontent.com/cheesynob39/Coasting/main/Source.lua")))()
+    local Coasting = loadstring(game:HttpGet(("https://raw.githubusercontent.com/thanhdat4461/Coasting-Black/main/Source.lua")))()
 
     local Time = 0
 
